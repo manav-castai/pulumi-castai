@@ -1,0 +1,17 @@
+{
+    "auto-aliasing": {
+        "resources": {
+            "castai_resource": {
+                "current": "castai:index/resource:Resource",
+                "majorVersion": 1
+            }
+        },
+        "datasources": {
+            "castai_data_source": {
+                "current": "castai:index/getDataSource:getDataSource",
+                "majorVersion": 1
+            }
+        }
+    },
+    "auto-settings": {}
+}
